@@ -51,6 +51,44 @@ Then open Atlas again. If it is elsewhere, replace the path with its actual loca
 - **Saves:** load a save folder to see available progress, inventories and saved objects. Use **Load / Refresh** after saving in-game. Atlas never edits the save.
 - **Settings:** adjust text and marker sizes, object labels, and the game-data storage folder.
 
+## Screenshots
+
+Screenshots show locally imported game data. Game assets are not included in the application downloads. Click an image to view it at full size.
+
+### Interactive Map
+
+Biome colours, overlays and object locations
+
+[![Biome colours, overlays and object locations](https://maddyy1312.github.io/atlas-downloads/screenshots/map-biomes.png)](https://maddyy1312.github.io/atlas-downloads/screenshots/map-biomes.png)
+
+Terrain textures and depth
+
+[![Terrain textures and depth](https://maddyy1312.github.io/atlas-downloads/screenshots/map-terrain.png)](https://maddyy1312.github.io/atlas-downloads/screenshots/map-terrain.png)
+
+### Detailed Encyclopedia
+
+PDA images and detailed game-reference statistics
+
+[![PDA images and detailed game-reference statistics](https://maddyy1312.github.io/atlas-downloads/screenshots/encyclopedia.png)](https://maddyy1312.github.io/atlas-downloads/screenshots/encyclopedia.png)
+
+### Base Planning — preview
+
+A 3D base plan with materials, structural integrity and energy requirements
+
+[![A 3D base plan with materials, structural integrity and energy requirements](https://maddyy1312.github.io/atlas-downloads/screenshots/base-planning.png)](https://maddyy1312.github.io/atlas-downloads/screenshots/base-planning.png)
+
+### Raw Materials and Crafting Calculator
+
+Crafting recipes expanded into a raw-material checklist
+
+[![Crafting recipes expanded into a raw-material checklist](https://maddyy1312.github.io/atlas-downloads/screenshots/crafting.png)](https://maddyy1312.github.io/atlas-downloads/screenshots/crafting.png)
+
+### Events and Radio
+
+Radio messages, imported audio and event requirements
+
+[![Radio messages, imported audio and event requirements](https://maddyy1312.github.io/atlas-downloads/screenshots/events-radio.png)](https://maddyy1312.github.io/atlas-downloads/screenshots/events-radio.png)
+
 ## Manage imported data
 
 Use **Game data** to import, replace or delete individual sections. Entries, images, recipes, icons and audio can be managed separately. Under **Map → Map imports**, manage each map detail and its textures. Imports and PNG exports can run in the background and be queued.
