@@ -1,8 +1,14 @@
 # Atlas
 
-Atlas is a Subnautica companion with an interactive map, PDA encyclopedia, crafting calculator, base planner, and radio/story-event viewer.
+Atlas is an unofficial Subnautica companion featuring an **Interactive Map**, **Detailed Encyclopedia**, **Base Planning**, a **Raw Materials and Crafting Calculator**, and **Save Data Importing**.
 
 **No Subnautica content is included.** You must own and install the original game, then import its data into Atlas. Below Zero is not supported. Atlas reads your game and save files without changing them.
+
+- **Interactive Map:** explore surface and cave layers, find objects and possible spawn locations, add markers, and export maps.
+- **Detailed Encyclopedia:** browse PDA entries and images, game-reference information, statistics, and unlock requirements.
+- **Base Planning:** plan bases in 3D, connect rooms, add components, and track materials, structural integrity, and power. Save whole plans or individual bases.
+- **Raw Materials and Crafting Calculator:** select multiple items and quantities, expand recipes down to raw materials, and follow synchronized checklists.
+- **Save Data Importing:** view saved objects, inventories, player locations, and progression alongside the imported game information. Saves are read-only.
 
 ## Download and set up
 
@@ -38,8 +44,9 @@ Then open Atlas again. If it is elsewhere, replace the path with its actual loca
 ## Using Atlas
 
 - **Map:** choose a biome or cave layer, search for objects, and enable the overlays you want. Possible spawn slots are not guaranteed object locations. Add personal markers or export a map as a PNG.
-- **Encyclopedia:** browse collapsible PDA categories, read entries and view images. Game Reference adds available item properties and unlock information.
-- **Crafting:** select items and quantities, then check off the required materials. The crafting-step list and material hierarchy stay in sync.
+- **Detailed Encyclopedia:** browse collapsible PDA categories, read entries and view images. Game Reference adds available item properties and unlock information.
+- **Raw Materials and Crafting Calculator:** select items and quantities, then check off the required materials. The crafting-step list and material hierarchy stay in sync.
+- **Base Planning:** build a 3D plan, manage interiors and components, review material, integrity and energy requirements, and save or combine bases. This feature is a preview.
 - **Events:** browse radio messages and story events, their requirements, and imported audio. Expect spoilers.
 - **Saves:** load a save folder to see available progress, inventories and saved objects. Use **Load / Refresh** after saving in-game. Atlas never edits the save.
 - **Settings:** adjust text and marker sizes, object labels, and the game-data storage folder.
