@@ -93,13 +93,6 @@ These features are experimental and disabled by default. Enable them individuall
 
 Rendering, textures and cave cutaways may be incomplete or incorrect, and these features can use substantial memory. The regular filled Aurora overlay does not require them. All models and textures must still come from your own game installation.
 
-
-### Base Planning preview
-
-The **Base Planning** tab is available directly. Import its data from **Game data → Base Planning**, then choose a piece from the catalog. Left-click to place, right-click to remove, and use **R** to rotate, **↑/↓** to change layer, and **Escape** to cancel placement and deselect. Base textures and transparency can be toggled in Options. Use Inspect mode or double-click a piece to manage its interior. The right panel tracks materials, depth-dependent integrity, and energy; adjust sunlight, individual thermal-plant temperatures, and charging/scanning switches there. Use **Base Components** to rename bases, select components (Shift-click for several), or remove them and their contents. **Charge all components** enables charging throughout the plan. Large-room partitions are currently disabled. Use **Base Plans** to save the whole plan, or **Save** beside a base in Base Components to save only that base. Saved plans can be added to your workspace or replace it, and you can choose an individual base from a saved plan. A 972-component performance example is included in the saves folder. Use **Cmd** on macOS or **Ctrl** on Windows/Linux with **Z / Shift+Z** for undo/redo and **C / X / V** for copy/cut/paste. Plans are saved automatically. Reimport Base Planning data after updating to obtain the new connection models and textures.
-
-This is an early preview. Placement and power calculations may differ from the game, terrain is ignored, and free-standing furniture is counted rather than positioned. Models and data must be imported from your own game.
-
 ## Troubleshooting
 
 If an import fails, open **Details** in the progress bar and check the log. Confirm you selected the installed game rather than a save folder, have enough free space, and can reach the download sites. Audio import needs the complete game installation for your operating system.
