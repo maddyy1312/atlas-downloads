@@ -53,41 +53,20 @@ Then open Atlas again. If it is elsewhere, replace the path with its actual loca
 
 ## Screenshots
 
-Screenshots show locally imported game data. Game assets are not included in the application downloads. Click an image to view it at full size.
+Screenshots show locally imported game data. Game assets are not included in the application downloads. Click a thumbnail to view it at full size.
 
-### Interactive Map
-
-Biome colours, overlays and object locations
-
-[![Biome colours, overlays and object locations](https://maddyy1312.github.io/atlas-downloads/screenshots/map-biomes.png)](https://maddyy1312.github.io/atlas-downloads/screenshots/map-biomes.png)
-
-Terrain textures and depth
-
-[![Terrain textures and depth](https://maddyy1312.github.io/atlas-downloads/screenshots/map-terrain.png)](https://maddyy1312.github.io/atlas-downloads/screenshots/map-terrain.png)
-
-### Detailed Encyclopedia
-
-PDA images and detailed game-reference statistics
-
-[![PDA images and detailed game-reference statistics](https://maddyy1312.github.io/atlas-downloads/screenshots/encyclopedia.png)](https://maddyy1312.github.io/atlas-downloads/screenshots/encyclopedia.png)
-
-### Base Planning — preview
-
-A 3D base plan with materials, structural integrity and energy requirements
-
-[![A 3D base plan with materials, structural integrity and energy requirements](https://maddyy1312.github.io/atlas-downloads/screenshots/base-planning.png)](https://maddyy1312.github.io/atlas-downloads/screenshots/base-planning.png)
-
-### Raw Materials and Crafting Calculator
-
-Crafting recipes expanded into a raw-material checklist
-
-[![Crafting recipes expanded into a raw-material checklist](https://maddyy1312.github.io/atlas-downloads/screenshots/crafting.png)](https://maddyy1312.github.io/atlas-downloads/screenshots/crafting.png)
-
-### Events and Radio
-
-Radio messages, imported audio and event requirements
-
-[![Radio messages, imported audio and event requirements](https://maddyy1312.github.io/atlas-downloads/screenshots/events-radio.png)](https://maddyy1312.github.io/atlas-downloads/screenshots/events-radio.png)
+<table style="table-layout: fixed; width: 100%;">
+<tr>
+<td width="33%" align="center"><strong>Interactive Map</strong><br><a href="https://maddyy1312.github.io/atlas-downloads/screenshots/map-biomes.png"><img src="https://maddyy1312.github.io/atlas-downloads/screenshots/map-biomes.png" alt="Interactive Map" width="100%"></a></td>
+<td width="33%" align="center"><strong>Terrain Textures</strong><br><a href="https://maddyy1312.github.io/atlas-downloads/screenshots/map-terrain.png"><img src="https://maddyy1312.github.io/atlas-downloads/screenshots/map-terrain.png" alt="Terrain Textures" width="100%"></a></td>
+<td width="33%" align="center"><strong>Detailed Encyclopedia</strong><br><a href="https://maddyy1312.github.io/atlas-downloads/screenshots/encyclopedia.png"><img src="https://maddyy1312.github.io/atlas-downloads/screenshots/encyclopedia.png" alt="Detailed Encyclopedia" width="100%"></a></td>
+</tr>
+<tr>
+<td width="33%" align="center"><strong>Base Planning — preview</strong><br><a href="https://maddyy1312.github.io/atlas-downloads/screenshots/base-planning.png"><img src="https://maddyy1312.github.io/atlas-downloads/screenshots/base-planning.png" alt="Base Planning — preview" width="100%"></a></td>
+<td width="33%" align="center"><strong>Materials and Crafting</strong><br><a href="https://maddyy1312.github.io/atlas-downloads/screenshots/crafting.png"><img src="https://maddyy1312.github.io/atlas-downloads/screenshots/crafting.png" alt="Materials and Crafting" width="100%"></a></td>
+<td width="33%" align="center"><strong>Events and Radio</strong><br><a href="https://maddyy1312.github.io/atlas-downloads/screenshots/events-radio.png"><img src="https://maddyy1312.github.io/atlas-downloads/screenshots/events-radio.png" alt="Events and Radio" width="100%"></a></td>
+</tr>
+</table>
 
 ## Manage imported data
 
