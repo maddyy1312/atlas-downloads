@@ -87,7 +87,6 @@ By default, Atlas stores its files here, with imported content in the `data` sub
 These features are experimental and disabled by default. Enable them individually under **Settings → Unfinished**:
 
 - **3D Map:** move around and rotate the terrain, including cave views. Choose Orbit or First person controls.
-- **Encyclopedia Models:** preview imported models beside PDA images. Model geometry and textures can be imported or removed separately in Game data.
 - **Object Renders:** display models of the Aurora, alien/Degasi bases, wrecks, lifepods and static props. Enabling this reveals **Map layer → Object Renders**. Import the matching models and textures in Game data first. The same options are available for PNG exports.
 - **Alien Arches:** show arches and their links under **Map layer → Overlays**, after importing the relevant world data.
 
