@@ -6,8 +6,10 @@ Atlas is an unofficial Subnautica companion featuring an **Interactive Map**, **
 
 - **Interactive Map:** explore surface and cave layers, find objects and possible spawn locations, add markers, and export maps.
 - **Detailed Encyclopedia:** browse PDA entries and images, game-reference information, statistics, and unlock requirements.
-- **Base Planning:** plan bases in 3D, connect rooms, add components, and track materials, structural integrity, and power. Save whole plans or individual bases.
-- **Raw Materials and Crafting Calculator:** select multiple items and quantities, expand recipes down to raw materials, and follow synchronized checklists.
+- **Base Planning:** plan bases in 3D, connect rooms, add components, and track materials, structural integrity, and power. Save whole plans or individual bases and estimate power storage over day/night cycles.
+- **Raw Materials and Crafting Calculator:** select multiple items and quantities, expand recipes down to raw materials, and follow synchronized checklists. Optionally subtract supplies from an imported save.
+- **Tools:** plan food and gardens, track completion, compare base locations, follow story progression, look up renewables, plan blueprint unlocks and calculate reactor fuel. Share base designs in one `.atlasplan` file.
+- **Saved bases:** bring supported base rooms and fittings from a save into the Base Planner. A preview lists any pieces that cannot be reconstructed.
 - **Save Data Importing:** view saved objects, inventories, player locations, and progression alongside the imported game information. Saves are read-only.
 
 ## Download and set up
@@ -68,6 +70,8 @@ Screenshots show locally imported game data. Game assets are not included in the
 </tr>
 </table>
 
+Existing users can import **Game data → Planning → Farming, food and resource renewal** for the new food and resource tables. Missing reference inputs are prepared automatically. Refresh a loaded save to read its crafting supplies. Temperature and power forecasts are estimates; scanner slots show possibilities rather than guaranteed spawns.
+
 ## Manage imported data
 
 Use **Game data** to import, replace or delete individual sections. Entries, images, recipes, icons and audio can be managed separately. Under **Map → Map imports**, manage each map detail and its textures. Imports and PNG exports can run in the background and be queued.
@@ -76,9 +80,9 @@ Choose **Settings → Game data storage** to use another storage folder. Changin
 
 By default, Atlas stores its files here, with imported content in the `data` subfolder:
 
-- macOS: `~/Library/Application Support/Subnautica Atlas Distribution`
-- Windows: `%LOCALAPPDATA%\Subnautica Atlas Distribution`
-- Linux: `~/.local/share/Subnautica Atlas Distribution` (or your configured `XDG_DATA_HOME`)
+- macOS: `~/Library/Application Support/Atlas`
+- Windows: `%LOCALAPPDATA%\Atlas`
+- Linux: `~/.local/share/Atlas` (or your configured `XDG_DATA_HOME`)
 
 **Keep imported data and saves private. Share the application download, not your generated game-content folder.**
 
@@ -103,3 +107,16 @@ Windows and Linux packages are built on those platforms, but game imports and in
 Subnautica belongs to Unknown Worlds Entertainment. Atlas is an unofficial companion. It does not include game files, extracted maps, models, textures, dialogue, music or saves.
 
 Release packages include third-party licenses and dependency notices in **THIRD-PARTY**. Setup retains notices for separately downloaded tools. Keep these files with the application.
+
+
+## License and disclaimer
+
+Atlas's own code is licensed under the MIT License. Binary distribution does not require disclosure of Atlas's source. Keep the license and copyright notice with copies. Third-party components retain their own licenses and any applicable source requirements.
+
+Atlas is an independent, unofficial companion. It is not affiliated with, endorsed by, or sponsored by Unknown Worlds Entertainment, KRAFTON, or any game store. Subnautica and its associated names, artwork, and content belong to their respective rights holders. The name is used only to identify the supported game.
+
+No game content or decompiled game code is bundled. Imported maps, textures, models, dialogue, music, and other game-derived content are not covered by Atlas's MIT license. Owning the game does not itself grant permission to extract, reverse engineer, redistribute, or publish that content. Use import and export features only where permitted by your applicable game/store terms and law; a local import or this disclaimer does not override those terms. Atlas does not bypass copy protection.
+
+Atlas is provided without warranty under its MIT license. Back up your own data. See DISCLAIMER.md and the third-party notices included with the application.
+
+Settings and default data now live in the **Atlas** application-data folder. Close older copies before updating. An existing legacy folder is renamed when no Atlas folder exists; folders are never merged. Custom data locations remain selected. If the old folder cannot be renamed, Atlas keeps using it to preserve access to your data.
